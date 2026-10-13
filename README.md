@@ -7,7 +7,7 @@ applied with the [themes kitten](https://sw.kovidgoyal.net/kitty/kittens/themes/
 | File | What it does |
 |---|---|
 | `kitty/kitty.conf` | Main config: theme include, cursor trail, grid layout, macOS behaviour |
-| `kitty/blaze-nord.slang` | Cursor trail shader in Nord Frost blues |
+| `kitty/shaders/blaze-nord.slang` | Cursor trail shader in Nord Frost blues |
 
 ## Install (macOS / Linux)
 
@@ -26,5 +26,5 @@ Then quit kitty completely and open it again (a config reload may not pick up sh
 
 ## Credits
 
-`blaze-nord.slang` is based on the Blaze cursor trail by chardskarth, ported to Slang by
+`shaders/blaze-nord.slang` is based on the Blaze cursor trail by chardskarth, ported to Slang by
 Kovid Goyal, and distributed under the GPLv3 license (see the header in the file).
